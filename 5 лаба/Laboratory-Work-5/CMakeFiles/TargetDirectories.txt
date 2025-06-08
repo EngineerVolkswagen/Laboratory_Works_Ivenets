@@ -1,0 +1,3 @@
+/home/typer/Laboratory-Work-5/CMakeFiles/app.dir
+/home/typer/Laboratory-Work-5/CMakeFiles/edit_cache.dir
+/home/typer/Laboratory-Work-5/CMakeFiles/rebuild_cache.dir

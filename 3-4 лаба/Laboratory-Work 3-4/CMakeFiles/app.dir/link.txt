@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/DinamicArray.cpp.o CMakeFiles/app.dir/functions.cpp.o -o app 

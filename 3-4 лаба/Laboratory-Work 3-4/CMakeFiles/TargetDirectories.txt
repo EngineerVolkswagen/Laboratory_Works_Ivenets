@@ -1,0 +1,3 @@
+/home/typer/laba/CMakeFiles/app.dir
+/home/typer/laba/CMakeFiles/edit_cache.dir
+/home/typer/laba/CMakeFiles/rebuild_cache.dir
