@@ -158,11 +158,14 @@ int main()
         switch(mode) 
         {
             case 1:
+            {
                 sortName(students, count);
                 writeFile("students.txt", students, count);
                 std::cout << "Отсортировано по фамилии.\n";
                 break;
-            case 2: {
+            }
+            case 2: 
+            {
                 char surname[30];
                 std::cout << "Введите фамилию и инициалы для поиска: ";
                 std::cin.ignore();
@@ -171,11 +174,14 @@ int main()
                 break;
             }
             case 3:
+            {
                 sortGroupAndName(students, count);
-                for (int i = 0; i < count; ++i) {
+                for (int i = 0; i < count; ++i) 
+                {
                     std::cout << students[i].name << ", группа: " << students[i].group << ", балл: " << students[i].grade << '\n';
                 }
                 break;
+            }
             case 4:
                 averageGroup(students, count);
                 break;
